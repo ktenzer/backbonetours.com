@@ -13,16 +13,16 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  ktenzer:
     name: Keith Tenzer
     display_name: ktenzer
-    avatar: assets/images/keith_octoberfest.jpg
-    gravatar: 
+    avatar: 
+    gravatar: 57390584711754ca675f5786f5e8977a
     email: 
     web: 
     twitter: https://twitter.com/keithtenzer
     description: "Malibu native, mountain biker, hiker, outdoor enthusiast"
-  john:
+  amayer:
     name: Aaron Mayer
     display_name: amayer    
     avatar: 
