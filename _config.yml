@@ -1,9 +1,9 @@
 # Site
-name: "Activities"
+name: "Backbone Tours"
 title: "Backbone Tours"
 description: "Tours and activities around the famous backbone trail in Malibu, CA"
-logo: 'assets/images/backbonetours.png'
-favicon: 'assets/images/backbonetours.png'
+logo: 'assets/images/B.png'
+favicon: 'assets/images/B.png'
 baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
