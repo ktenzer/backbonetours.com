@@ -4,6 +4,7 @@ title:  "Point Magu Ocean Vista Hike"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/pt_magu_ocean_vista_hike/pt_magu_rock.jpg
+description: "My review of Inception movie. Acting, plot and something else in this short description."
 featured: true
 hidden: true
 rating: 4.5
@@ -17,7 +18,7 @@ Pt. Magu peak
 Vista overlooking the Backbone trail
 ![Vista]({{ site.baseurl }}/assets/images/pt_magu_ocean_vista_hike/backbone_trail_pt_magu.jpg)
 
-One the ridgeline is reached we will slowly decend making our way to the beach. You will see magnificient costal views, the sandy dunes, pt. magu rock and a glimpse of sandstone peak. At 3,111 ft this is the highest peak in the Santa Monica mountains.
+One the ridgeline is reached we will slowly decend making our way to the beach. You will see magnificient costal views, pt. magu rock, the sandy dunes and a glimpse of sandstone peak. At 3,111 ft this is the highest peak in the Santa Monica mountains.
 
 Pt. Magu Rock
 ![Pt. Magu rock]({{ site.baseurl }}/assets/images/pt_magu_ocean_vista_hike/pt_magu_rock.jpg)
@@ -28,4 +29,15 @@ Sandy Dunes
 Sandstone Peak
 ![Sandstone peak]({{ site.baseurl }}/assets/images/pt_magu_ocean_vista_hike/sandstone_peak.jpg)
 
-The total hiking time is 3-4 hours with a 2 hours of beach time to relax and cool off. This hike is moderate difficulty. Hiking shoes, clothes and beach wear are recommended.
+Finally after an awesome hike what better way to relax the taking off those boots, dipping those toes in the refreshing pacific and lounging on the beach.
+
+Sycamore Cove Beach
+![Sycamore Cove beach]({{ site.baseurl }}/assets/images/pt_magu_ocean_vista_hike/sycamore_cove_beach.jpg)
+
+```html
+Activity: Hiking
+Duration: 6 hours
+Difficulty: moderate
+Bring: Hiking boots, beach wear, water and snacks
+```
+
