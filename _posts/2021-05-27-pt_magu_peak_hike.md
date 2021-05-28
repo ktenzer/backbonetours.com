@@ -58,6 +58,6 @@ After another 15-20 minutes on the trail you will make it back to the first fork
 Activity: Hiking
 Duration: 3 hours
 Difficulty: difficult
-Bring: Hiking boots, beach wear, water and snacks
+Bring: Hiking boots, hat, water and snacks
 ```
 
