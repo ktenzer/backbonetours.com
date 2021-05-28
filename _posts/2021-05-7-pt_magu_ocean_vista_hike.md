@@ -5,8 +5,8 @@ author: ktenzer
 categories: [ hiking ]
 image: assets/images/pt_mugu_ocean_vista_hike/pt_mugu_rock.jpg
 description: 
-featured: true
-hidden: true
+featured: false
+hidden: false
 rating: 4.5
 ---
 
