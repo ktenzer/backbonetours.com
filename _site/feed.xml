@@ -5,8 +5,8 @@
     <description>Tours and activities around the famous backbone trail in Malibu, CA</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 May 2021 12:11:10 -0700</pubDate>
-    <lastBuildDate>Sat, 29 May 2021 12:11:10 -0700</lastBuildDate>
+    <pubDate>Sat, 29 May 2021 12:20:09 -0700</pubDate>
+    <lastBuildDate>Sat, 29 May 2021 12:20:09 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -180,6 +180,30 @@ Bring: Hiking boots, towel, extra socks, water and snacks
         <pubDate>Tue, 20 Apr 2021 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/mash-movie-hike/</link>
         <guid isPermaLink="true">http://localhost:4000/mash-movie-hike/</guid>
+        
+        
+        <category>hiking</category>
+        
+      </item>
+    
+      <item>
+        <title>Sandstone Peak Hike</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/mash_movie_hike/mash_movie_map.jpg&quot; alt=&quot;Map&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
+Duration: 3 hours
+Difficulty: Easy
+Bring: Hiking boots, towel, extra socks, water and snacks
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 12 Apr 2021 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/sandstone-peak/</link>
+        <guid isPermaLink="true">http://localhost:4000/sandstone-peak/</guid>
         
         
         <category>hiking</category>
