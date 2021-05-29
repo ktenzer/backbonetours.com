@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Point mugu Peak Hike"
+title:  "Point Mugu Peak Hike"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/pt_mugu_peak_hike/american_flag.jpg
