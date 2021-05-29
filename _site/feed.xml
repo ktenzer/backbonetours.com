@@ -5,13 +5,15 @@
     <description>Tours and activities around the famous backbone trail in Malibu, CA</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 May 2021 12:02:36 -0700</pubDate>
-    <lastBuildDate>Fri, 28 May 2021 12:02:36 -0700</lastBuildDate>
+    <pubDate>Sat, 29 May 2021 12:11:10 -0700</pubDate>
+    <lastBuildDate>Sat, 29 May 2021 12:11:10 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Point mugu Peak Hike</title>
-        <description>&lt;p&gt;Located in the point mugu state park, this is an out and back with a loop around the majestic point mugu peak. Towering 1,266 ft above the pacific point mugu peak offers panoramic views of the coastline and channel islands. On a clear day you can see Catalina, San Nicholas, Anacapa and Santa Cruz islands. Point mugu peak is so close to the coastline you feel like you are flying above the ocean, it is truly an amazing out of body experience.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/pt_mugu_peak_hike/pt_mugu_peak_map.jpg&quot; alt=&quot;Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Located in the point mugu state park, this is an out and back with a loop around the majestic point mugu peak. Towering 1,266 ft above the pacific point mugu peak offers panoramic views of the coastline and channel islands. On a clear day you can see Catalina, San Nicholas, Anacapa and Santa Cruz islands. Point mugu peak is so close to the coastline you feel like you are flying above the ocean, it is truly an amazing out of body experience.&lt;/p&gt;
 
 &lt;p&gt;The hike starts at a dirt parking lot and the trail is called the chumash trail.
 &lt;img src=&quot;/assets/images/pt_mugu_peak_hike/start.jpg&quot; alt=&quot;Parking Lot&quot; /&gt;&lt;/p&gt;
@@ -60,7 +62,7 @@
 4
 &lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
 Duration: 3 hours
-Difficulty: difficult
+Difficulty: Hard
 Bring: Hiking boots, hat, water and snacks
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -76,15 +78,30 @@ Bring: Hiking boots, hat, water and snacks
     
       <item>
         <title>Point mugu Ocean Vista Hike</title>
-        <description>&lt;p&gt;Located in the point mugu state park, this magnificent hike offers breathtaking ocean vista views in one of the most scenic areas and less frequented areas in all of southern california. Traversing the backbone trail you will assend with terrif views of Pt. mugu peak and the coastline.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_ocean_vista_map.jpg&quot; alt=&quot;Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Located in the point mugu state park, this magnificent hike offers breathtaking ocean vista views in one of the most scenic areas and less frequented areas in all of southern california. Traversing the backbone trail you will assend with terrif views of Pt. mugu peak and the coastline.&lt;/p&gt;
+
+&lt;p&gt;Park in La Jolla Canyon, day parking area. Follow the road into the canyon and look for the sign to ray miller trailhead. Take the ray miller trail heading south (to the right).&lt;/p&gt;
+
+&lt;p&gt;The trail will ascend to the ridgeline. Behind you is point mugu peak.&lt;/p&gt;
 
 &lt;p&gt;Pt. mugu peak
 &lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_peak.jpg&quot; alt=&quot;Pt. mugu peak&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;After 45 minutes you should reach a fork go right at the overlook trail. 15 minutes later you will reach another fork this will be our loop. Take fireline trail. This will descend into the canyon and eventually reach sycamore canyon, go right all the way to the sycamore canyon beach.&lt;/p&gt;
+
+&lt;p&gt;Sycamore Cove Beach
+&lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/sycamore_cove_beach.jpg&quot; alt=&quot;Sycamore Cove beach&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hopefully you brought some beacj wear to enjoy the refreshing pacific and a nice lunch!&lt;/p&gt;
+
+&lt;p&gt;Head back up sycamore canyon but this time hang left on the scenic trail.&lt;/p&gt;
+
 &lt;p&gt;Vista overlooking the Backbone trail
 &lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/backbone_trail_pt_mugu.jpg&quot; alt=&quot;Vista&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;One the ridgeline is reached we will slowly decend making our way to the beach. You will see magnificient costal views, pt. mugu rock, the sandy dunes and a glimpse of sandstone peak. At 3,111 ft this is the highest peak in the Santa Monica mountains.&lt;/p&gt;
+&lt;p&gt;You will see magnificient costal views, pt. mugu rock, the sandy dunes and a glimpse of sandstone peak. At 3,111 ft this is the highest peak in the Santa Monica mountains.&lt;/p&gt;
 
 &lt;p&gt;Pt. mugu Rock
 &lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_rock.jpg&quot; alt=&quot;Pt. mugu rock&quot; /&gt;&lt;/p&gt;
@@ -95,10 +112,7 @@ Bring: Hiking boots, hat, water and snacks
 &lt;p&gt;Sandstone Peak
 &lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/sandstone_peak.jpg&quot; alt=&quot;Sandstone peak&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Finally after an awesome hike what better way to relax the taking off those boots, dipping those toes in the refreshing pacific and lounging on the beach.&lt;/p&gt;
-
-&lt;p&gt;Sycamore Cove Beach
-&lt;img src=&quot;/assets/images/pt_mugu_ocean_vista_hike/sycamore_cove_beach.jpg&quot; alt=&quot;Sycamore Cove beach&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The scenic trail will work stay to your left on the overlook trail. This will take you back to the end of the loop at the fireline trail. This time go left staying on the overlook trail. Again you will reach a fork, take a left on to the backbone trail which takes you back top the ray miller trailhead.&lt;/p&gt;
 
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
 2
@@ -106,7 +120,7 @@ Bring: Hiking boots, hat, water and snacks
 4
 &lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
 Duration: 6 hours
-Difficulty: moderate
+Difficulty: Moderate
 Bring: Hiking boots, beach wear, water and snacks
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
@@ -122,7 +136,9 @@ Bring: Hiking boots, beach wear, water and snacks
     
       <item>
         <title>Mash Movie Hike</title>
-        <description>&lt;p&gt;Located in malibu creek state park this hike takes you back to the glory days of hollywood. Countless movies and TV series were filmed in the park such as planet of the apes, the original tarzan and of course mash. This hike starts at grasslands trailhead on mullholland hwy where it meets malibu canyon. You can park on the side of the road on mullholland hwy.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/mash_movie_hike/mash_movie_map.jpg&quot; alt=&quot;Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Located in malibu creek state park this hike takes you back to the glory days of hollywood. Countless movies and TV series were filmed in the park such as planet of the apes, the original tarzan and of course mash. This hike starts at grasslands trailhead on mullholland hwy where it meets malibu canyon. You can park on the side of the road on mullholland hwy.&lt;/p&gt;
 
 &lt;p&gt;This is a very easy hike which is mostly flat. It is an out and back. Once on the trail you will get to a small hill that heads to the right. At the top of the hill 10 minutes from trailhead the trail will fork, take the middle trail which goes down into the main park area. You should see the beuatiful malibu creek in front of you. As you go down look to your right at a truly awe inspiring california oak. The hillside to the left on the other side of the creek is where planet of the apes was filmed by the rocky areas.
 &lt;img src=&quot;/assets/images/mash_movie_hike/oak_fall.jpg&quot; alt=&quot;California Oak in Fall&quot; /&gt;&lt;/p&gt;
