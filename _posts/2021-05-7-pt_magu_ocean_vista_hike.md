@@ -9,7 +9,7 @@ featured: false
 hidden: false
 rating: 4.5
 ---
-![Map]({{ site.baseurl }}/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_ocean_vista_map.jpg)
+![]({{ site.baseurl }}/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_ocean_vista_map.jpg)
 
 Located in the point mugu state park, this magnificent hike offers breathtaking ocean vista views in one of the most scenic areas and less frequented areas in all of southern california. Traversing the backbone trail you will assend with terrif views of Pt. mugu peak and the coastline.
 
@@ -25,7 +25,7 @@ After 45 minutes you should reach a fork go right at the overlook trail. 15 minu
 Sycamore Cove Beach
 ![Sycamore Cove beach]({{ site.baseurl }}/assets/images/pt_mugu_ocean_vista_hike/sycamore_cove_beach.jpg)
 
-Hopefully you brought some beacj wear to enjoy the refreshing pacific and a nice lunch!
+Hopefully you brought some beach wear to enjoy the refreshing pacific and a nice lunch!
 
 Head back up sycamore canyon but this time hang left on the scenic trail. 
 

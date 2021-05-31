@@ -9,7 +9,7 @@ featured: false
 hidden: false
 rating: 4
 ---
-![Map]({{ site.baseurl }}/assets/images/mash_movie_hike/mash_movie_map.jpg)
+![]({{ site.baseurl }}/assets/images/mash_movie_hike/mash_movie_map.jpg)
 
 Located in malibu creek state park this hike takes you back to the glory days of hollywood. Countless movies and TV series were filmed in the park such as planet of the apes, the original tarzan and of course mash. This hike starts at grasslands trailhead on mullholland hwy where it meets malibu canyon. You can park on the side of the road on mullholland hwy.
 
