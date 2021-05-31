@@ -9,7 +9,7 @@ featured: false
 hidden: false
 rating: 4.5
 ---
-![]({{ site.baseurl }}/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_ocean_vista_map.jpg)
+![Trail Map]({{ site.baseurl }}/assets/images/pt_mugu_ocean_vista_hike/pt_mugu_ocean_vista_map.jpg)
 
 Located in the point mugu state park, this magnificent hike offers breathtaking ocean vista views in one of the most scenic areas and less frequented areas in all of southern california. Traversing the backbone trail you will assend with terrif views of Pt. mugu peak and the coastline.
 

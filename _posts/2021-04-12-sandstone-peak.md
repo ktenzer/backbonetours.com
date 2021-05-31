@@ -9,7 +9,7 @@ featured: false
 hidden: false
 rating: 4
 ---
-![]({{ site.baseurl }}/assets/images/sandstone_peak_hike/sandstone_peak_map.jpg)
+![Trail Map]({{ site.baseurl }}/assets/images/sandstone_peak_hike/sandstone_peak_map.jpg)
 
 Sandstone peak is the highest mountain in the santa monica mountains at 3,111 ft. The trailhead starts around 2,000 ft. It is about a 1,111 ft up elevation gain. The trail is an out and back but you can make a longer loop to extend your tour. The hike has very limited shade so it isn't recommended when it is too hot.
 

@@ -9,7 +9,7 @@ featured: true
 hidden: true
 rating: 5
 ---
-![]({{ site.baseurl }}/assets/images/pt_mugu_peak_hike/pt_mugu_peak_map.jpg)
+![Trail Map]({{ site.baseurl }}/assets/images/pt_mugu_peak_hike/pt_mugu_peak_map.jpg)
 
 Located in the point mugu state park, this is an out and back with a loop around the majestic point mugu peak. Towering 1,266 ft above the pacific point mugu peak offers panoramic views of the coastline and channel islands. On a clear day you can see Catalina, San Nicholas, Anacapa and Santa Cruz islands. Point mugu peak is so close to the coastline you feel like you are flying above the ocean, it is truly an amazing out of body experience. 
 
