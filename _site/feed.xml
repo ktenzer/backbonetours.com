@@ -5,8 +5,8 @@
     <description>Tours and activities around the famous backbone trail in Malibu, CA</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2022 17:47:29 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 17:47:29 -0700</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 18:30:03 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 18:30:03 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
@@ -52,6 +52,47 @@ Bring: Good shoes, beach clothing, hat, water and snacks
         <pubDate>Sun, 13 Feb 2022 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/pt_dume_reserve_hike/</link>
         <guid isPermaLink="true">http://localhost:4000/pt_dume_reserve_hike/</guid>
+        
+        
+        <category>hiking</category>
+        
+      </item>
+    
+      <item>
+        <title>Tuna Canyon Hike</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/tuna_canyon_hike/tuna_canyon_map.png&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The hike starts close to 3233 Tuna Canyon Rd. You will see cars parked on the right which is where the big rock trail begins. You will first go through some oak tree meadows.
+&lt;img src=&quot;/assets/images/tuna_canyon_hike/start.jpg&quot; alt=&quot;Oak Trees&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After a few minutes the trail opens up and you are greeted by stunning ocean and mountain panorama. The budwood trail will split from big rock trail, follow it to your left. This is the nicer and more scenic of the two paths.
+&lt;img src=&quot;/assets/images/tuna_canyon_hike/trail_path.jpg&quot; alt=&quot;Trail path&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are several smaller paths that go left you can take those or decide to stay on the main trail, it all goes to same place. Looking to your right you can see the malibu pier and point dume in the distance. To your left will be the los angeles bay and santa monica.
+&lt;img src=&quot;/assets/images/tuna_canyon_hike/los_angeles_bay.jpg&quot; alt=&quot;Los Angeles Bay&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After about 45 minutes you reach the end of the trail. You will see a heart, made of rocks with a breathtaking view of catalina island. 
+&lt;img src=&quot;/assets/images/tuna_canyon_hike/heart.jpg&quot; alt=&quot;Point dume&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To your left you can see culver city and beyond it, downtown LA. On a really clear winter day you can see a snow capped mount baldly in the far distance.
+&lt;img src=&quot;/assets/images/tuna_canyon_hike/downtown_la.jpg&quot; alt=&quot;Oak Trees&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you are ready to go back take the same trail but stay on main trail this time to your left. If you took the side trails on way down then most of way back will be different which makes the hike even more enjoyable. Once you get back to big rock trail go right. After you are back in the car continue on tuna canyon road, stay to your right and take the one way road down tuna canyon to PCH. It is an amazing drive and one few people get to experience.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
+Duration: 1.5 hours
+Difficulty: Easy
+Bring: Good shoes, beach clothing, hat, water and snacks
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 09 Jan 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/tuna_canyon_hike/</link>
+        <guid isPermaLink="true">http://localhost:4000/tuna_canyon_hike/</guid>
         
         
         <category>hiking</category>
