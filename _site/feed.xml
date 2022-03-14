@@ -5,9 +5,58 @@
     <description>Tours and activities around the famous backbone trail in Malibu, CA</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Mar 2022 12:20:18 -0800</pubDate>
-    <lastBuildDate>Wed, 02 Mar 2022 12:20:18 -0800</lastBuildDate>
+    <pubDate>Sun, 13 Mar 2022 17:47:29 -0700</pubDate>
+    <lastBuildDate>Sun, 13 Mar 2022 17:47:29 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Point Dume Reserve Hike</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/pt_dume_reserve/pt_dume_preserve_map.png&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Located at the tip of point dume, separating westward beach and big / little dume the point dume reserve offers breath taking ocean and mountain views from bluffs above some of souther california’s more remote beaches.&lt;/p&gt;
+
+&lt;p&gt;The hike starts at a small parking lot off cliffside drive. I recommend parking further away off dume drive since there are only limited spots. Also they enforce parking tickets and after sunset you will get a ticket which is no bueno. You do want to see the sunset right?
+&lt;img src=&quot;/assets/images/pt_dume_reserve/pt_dume_reserve_sign.jpg&quot; alt=&quot;Parking Lot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Take the path heading to your left and stay to your left. You will see a view of little dume beach and follow a narrow trail to your left that goes along the cliffs.
+&lt;img src=&quot;/assets/images/pt_dume_reserve/little_dume_beach.jpg&quot; alt=&quot;Little Dume&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you get to the cliffs take new stair case if it open otherwise follow trail to right. This will take you down a path where you will find ropes to help you get down to little dume via the “death stairs”. Once at the beach you can explore some tide pools and walk along the beach. Little dume was for a long time more inaccessible to public and considered a private beach. Above the high tide line is still private but below high tide line is considered public so please respect the local residents.
+&lt;img src=&quot;/assets/images/pt_dume_reserve/little_dume.jpg&quot; alt=&quot;Little dume beach&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;From here go back the way you came and when you are back on the cliffs continue to your left.
+&lt;img src=&quot;/assets/images/pt_dume_reserve/path_to_top_big_dume.jpg&quot; alt=&quot;Path to Big Dume&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you are at the top you will see views of catalina island, big dume and zuma beach. On a really clear day you can also see anacapa and sanat Cruz islands which are part of the channel islands.
+&lt;img src=&quot;/assets/images/pt_dume_reserve/top_of_point_dume.jpg&quot; alt=&quot;Point Dume&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In front of the point dume state park monument is a narrow path that leads down to trail which wraps around the point. If you look to you left and below you can see a beach cove which is called secret beach or pirates cove (it is accessible via westward beach). The trail will split go to your left. This will take you down to westward beach.
+&lt;img src=&quot;/assets/images/pt_dume_reserve/westward_beach.jpg&quot; alt=&quot;Westward beach&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you timed it right it should be close to sunset. There is a restaurant called the sunset which is a local spot, the food isn’t great but they make great drinks. When you are done head back up the way you came and once you reach a fork go left. This will take you back to cliffside drive where you started from.
+&lt;img src=&quot;/assets/images/pt_dume_reserve/path_from_westward_beach.jpg&quot; alt=&quot;Spring bloom&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Head to your left on bird view drive and make a right on sea lion place. Finally a left on dume drive and you are back at your car.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
+Duration: 2 hours
+Difficulty: Easy
+Bring: Good shoes, beach clothing, hat, water and snacks
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 13 Feb 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/pt_dume_reserve_hike/</link>
+        <guid isPermaLink="true">http://localhost:4000/pt_dume_reserve_hike/</guid>
+        
+        
+        <category>hiking</category>
+        
+      </item>
     
       <item>
         <title>Point Mugu Peak Hike</title>
