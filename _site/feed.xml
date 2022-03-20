@@ -5,12 +5,12 @@
     <description>Tours and activities around the famous backbone trail in Malibu, CA</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 19 Mar 2022 18:07:08 -0700</pubDate>
-    <lastBuildDate>Sat, 19 Mar 2022 18:07:08 -0700</lastBuildDate>
+    <pubDate>Sat, 19 Mar 2022 18:46:39 -0700</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2022 18:46:39 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
     
       <item>
-        <title>Calabasas Peak</title>
+        <title>Calabasas Peak Hike</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/images/calabasas_peak/calabasas_peak_map.png&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Calabasas peak stands alone at 2,163 ft offering 360 degree panoramic views of the santa monica mountains, calabasas, the coastline and greater los angeles basin. The hike starts at a parking lot off stunt road just about a mile or two passed mullholland hwy. The trail begins on the other side of stunt road from the parking lot and goes up.
@@ -41,6 +41,53 @@ Bring: Hiking shoes, hat, water and snacks
         <pubDate>Sat, 19 Mar 2022 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/calabassas_peak/</link>
         <guid isPermaLink="true">http://localhost:4000/calabassas_peak/</guid>
+        
+        
+        <category>hiking</category>
+        
+      </item>
+    
+      <item>
+        <title>Saddle Peak Hike</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/saddle_peak/saddle_peak_map.png&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Saddle peak stands at 2,805 ft and is one of the highest peaks in the santa monica mountains. The hike starts off stunt road about 3 or 4 miles passed the mullholland hwy intersection. The trail starts at the piuma road sign. You can park on either side of stunt road.
+&lt;img src=&quot;/assets/images/saddle_peak/piuma_rd_sign.jpg&quot; alt=&quot;Start&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After about 10 minutes you will reach a fork, take the trail left to saddle peak.
+&lt;img src=&quot;/assets/images/saddle_peak/saddle_peak_sign.jpg&quot; alt=&quot;Saddle Peak Fork&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking to your left you can see calabasas peak across the way.
+&lt;img src=&quot;/assets/images/saddle_peak/calabasas_peak.jpg&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you are getting close you will see saddle rock. This is also a popular rock climb as it offers several hundred foot faces.
+&lt;img src=&quot;/assets/images/saddle_peak/saddle_rock.jpg&quot; alt=&quot;Saddle Rock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After you get to saddle rock area you will see lots of small caves as you make your way toward the summit. If you got kids with you they will love this part.
+&lt;img src=&quot;/assets/images/saddle_peak/caves.jpg&quot; alt=&quot;Caves&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you reach the ridge line continue to your right toward the ocean and the weather station. Take a left at the fork to the weather station and this will take you up to saddle peak.
+&lt;img src=&quot;/assets/images/saddle_peak/saddle_peak.jpg&quot; alt=&quot;Saddle Peak&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In spring there are beautiful wildflowers such as purple mat, pictured below.
+&lt;img src=&quot;/assets/images/saddle_peak/purple_mat.jpg&quot; alt=&quot;Saddle Rock&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enjoy the amazing views, hopefully you brought a snack and something to enjoy. When you are ready follow the same path back to your car.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
+Duration: 2 hours
+Difficulty: Moderate
+Bring: Hiking shoes, hat, water and snacks
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sun, 27 Feb 2022 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/saddle_peak/</link>
+        <guid isPermaLink="true">http://localhost:4000/saddle_peak/</guid>
         
         
         <category>hiking</category>
