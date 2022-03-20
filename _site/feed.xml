@@ -5,9 +5,47 @@
     <description>Tours and activities around the famous backbone trail in Malibu, CA</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 13 Mar 2022 18:30:03 -0700</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2022 18:30:03 -0700</lastBuildDate>
+    <pubDate>Sat, 19 Mar 2022 18:07:08 -0700</pubDate>
+    <lastBuildDate>Sat, 19 Mar 2022 18:07:08 -0700</lastBuildDate>
     <generator>Jekyll v4.2.1</generator>
+    
+      <item>
+        <title>Calabasas Peak</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/calabasas_peak/calabasas_peak_map.png&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Calabasas peak stands alone at 2,163 ft offering 360 degree panoramic views of the santa monica mountains, calabasas, the coastline and greater los angeles basin. The hike starts at a parking lot off stunt road just about a mile or two passed mullholland hwy. The trail begins on the other side of stunt road from the parking lot and goes up.
+&lt;img src=&quot;/assets/images/calabasas_peak/start.jpg&quot; alt=&quot;Start&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is about 1,000 feet of elevation gain to the top so bring plenty of water and don’t go on a day where it is hotter than 75 degrees, there is no shade. Looking ahead you will see the top of the peak the whole time.
+&lt;img src=&quot;/assets/images/calabasas_peak/half_way.jpg&quot; alt=&quot;Almost there&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you go during spring you can see lots of wild flowers such as the common goldfields pictured below.
+&lt;img src=&quot;/assets/images/calabasas_peak/common_goldfields.jpg&quot; alt=&quot;Trail Map&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once you get close to top look to your right and you will see the pyramid of caves. At the top of ridge take a small trail that goes off to the left. This will take you to top of calabasas peak which is only another 10 minutes. Once at the top enjoy the view. There is also a lockbox which has poems and a journal with messages left by others. Feel free to add your adventure and read about that of others.
+&lt;img src=&quot;/assets/images/calabasas_peak/at_peak.jpg&quot; alt=&quot;The Peak&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When you are ready take the same route back to the car.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;Activity: Hiking
+Duration: 2 hours
+Difficulty: Moderate
+Bring: Hiking shoes, hat, water and snacks
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Sat, 19 Mar 2022 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/calabassas_peak/</link>
+        <guid isPermaLink="true">http://localhost:4000/calabassas_peak/</guid>
+        
+        
+        <category>hiking</category>
+        
+      </item>
     
       <item>
         <title>Point Dume Reserve Hike</title>
