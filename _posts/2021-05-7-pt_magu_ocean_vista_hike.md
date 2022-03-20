@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Point Mugu Ocean Vista Hike"
+title:  "Point Mugu Ocean Vista"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/pt_mugu_ocean_vista_hike/pt_mugu_rock.jpg

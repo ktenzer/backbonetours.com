@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Point Dume Reserve Hike"
+title:  "Point Dume Reserve"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/pt_dume_reserve/zuma_beach.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sandstone Peak Hike"
+title:  "Sandstone Peak"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/sandstone_peak_hike/peak.jpg

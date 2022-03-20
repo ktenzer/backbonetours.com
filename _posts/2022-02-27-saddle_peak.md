@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Saddle Peak Hike"
+title:  "Saddle Peak"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/saddle_peak/weather_station.jpg

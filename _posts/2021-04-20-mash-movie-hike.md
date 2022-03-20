@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mash Movie Hike"
+title:  "Mash Movie"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/mash_movie_hike/mash_replica_medic.jpg

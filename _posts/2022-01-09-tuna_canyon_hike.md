@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tuna Canyon Hike"
+title:  "Tuna Canyon"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/tuna_canyon_hike/point_dume.jpg
@@ -33,6 +33,6 @@ When you are ready to go back take the same trail but stay on main trail this ti
 Activity: Hiking
 Duration: 1.5 hours
 Difficulty: Easy
-Bring: Good shoes, beach clothing, hat, water and snacks
+Bring: Good shoes, hat, water and snacks
 ```
 

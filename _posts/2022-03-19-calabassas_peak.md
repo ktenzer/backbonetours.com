@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Calabasas Peak Hike"
+title:  "Calabasas Peak"
 author: ktenzer
 categories: [ hiking ]
 image: assets/images/calabasas_peak/looking_at_peak.jpg
