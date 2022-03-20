@@ -66,3 +66,12 @@ Here I have photographed the wild flowers that are common in this area and found
 
 **Two Tone Everlasting**
 ![Tow Tone Everlasting]({{ site.baseurl }}/assets/images/wild_flowers/two_tone_everlasting.jpg)
+
+**Black Mustard**
+![Black Mustard]({{ site.baseurl }}/assets/images/wild_flowers/black_mustard.jpg)
+
+**Bermuda Buttercup**
+![Bermuda Buttercup]({{ site.baseurl }}/assets/images/wild_flowers/bermuda_buttercup.jpg)
+
+**Silver Lupine**
+![Silver Lupine]({{ site.baseurl }}/assets/images/wild_flowers/silver_lupine.jpg)
